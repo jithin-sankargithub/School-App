@@ -1,0 +1,7 @@
+
+@
+java:S2160!"+Override the "equals" method in this class.(Á·“
+E
+java:S1874%"0Remove this use of "strategy"; it is deprecated.(­×Û6
+R
+java:S6353-"<Use concise character class syntax '\\d' instead of '[0-9]'.(÷‘„§

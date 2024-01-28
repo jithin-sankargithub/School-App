@@ -1,0 +1,40 @@
+
+c
+java:S1192p"HDefine a constant instead of duplicating this literal "courses" 7 times.(¦ñí˜úÿÿÿÿ
+„
+java:S1192S"iDefine a constant instead of duplicating this literal "redirect:/admin/displayStudents?classId=" 3 times.(ø‡çùÿÿÿÿ
+x
+java:S1192”"aDefine a constant instead of duplicating this literal "redirect:/admin/viewStudents?id=" 3 times.(È¡±©
+e
+java:S1192&"JDefine a constant instead of duplicating this literal "eazyClass" 6 times.(¿Æ†øÿÿÿÿ
+
+java:S1488-"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(…”¼½ûÿÿÿÿ
+
+java:S14889"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(…”¼½ûÿÿÿÿ
+
+java:S1488g"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(İà¤¿ıÿÿÿÿ
+€
+java:S1488©"dImmediately return this expression instead of assigning it to the temporary variable "modelAndView".(šëıÿÿÿÿ
+h
+java:S36554"RCall "eazyClass.isPresent()" or "!eazyClass.isEmpty()" before accessing the value.(âõŞŞ
+e
+java:S3655ƒ"NCall "courses.isPresent()" or "!courses.isEmpty()" before accessing the value.(íú¥õ
+c
+java:S3655¥"LCall "person.isPresent()" or "!person.isEmpty()" before accessing the value.(¤èù¬
+g
+java:S3655c"LCall "person.isPresent()" or "!person.isEmpty()" before accessing the value.(£ÚÁ®şÿÿÿÿ
+h
+java:S3655C"RCall "eazyClass.isPresent()" or "!eazyClass.isEmpty()" before accessing the value.(ÖŞ…ã
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+?
+java:S1940R")Use the opposite operator ("<=") instead.(†èõß
+Q	java:S125m"<This block of commented-out lines of code should be removed.(ÀÆ¬
+@
+java:S1940“")Use the opposite operator ("<=") instead.(†èõß
+C
+java:S2175¦",A "Set<Person>" cannot contain a "Optional".(ú£¥¦
